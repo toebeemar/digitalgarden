@@ -1,1 +1,19 @@
-bcomnes/deploy-to-neocities
+name: Deploy to Neocities
+
+on:
+  push:
+    branches:
+      - main # Change this to your main branch name if it's different
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Deploy to Neocities
+        uses: bcomnes/deploy-to-neocities@v1
+        with:
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          dist_dir: 'public' # The folder where the Digital Garden plugin exports your files
