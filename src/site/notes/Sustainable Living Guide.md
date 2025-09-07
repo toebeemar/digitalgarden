@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sustainable-living-guide/","tags":["#Guide"],"created":"2025-09-05T19:30:10.763-06:00","updated":"2025-09-07T11:27:19.151-06:00"}
+{"dg-publish":true,"permalink":"/sustainable-living-guide/","tags":["#Guide"],"noteIcon":"","created":"2025-09-05T19:30:10.763-06:00","updated":"2025-09-07T12:53:43.516-06:00"}
 ---
 
 
@@ -34,6 +34,7 @@ I, myself have not implemented many of these in my life.
         - Carry Metal or Bamboo Utensils 
 		- Cloth Napkin
 		- Versatile containers you can use for Dining Out leftovers or Take Out
+		- [[Reusable Straw\|Reusable Straw]]
     - Products with minimal or no plastic packaging
         - loose produce
         - loose-leaf tea
